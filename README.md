@@ -121,8 +121,7 @@ For commercial use or custom licensing, please contact the author.
 
 ## 🙋‍♂️ Author
 
-- **Piyush Shivnani**
-- [GitHub](https://github.com/Piyushh10)
+- **Piyush Shivnani** [(GitHub)](https://github.com/Piyushh10)
 
 ---
 
